@@ -6,8 +6,9 @@ I have a MSc in Teaching Studies. I am awaiting my results for a Diploma in Full
 
 My LinkedIn Profile:<a target="_blank" href="www.linkedin.com/in/naidahadzic1993"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
 
-<em>Fun fact: I swapped the classroom for code — turns out debugging behaves a lot like students: it never listens the first time, but the “aha!” moments are just as rewarding.</em>
+Fun fact: <em>I swapped the classroom for code — turns out debugging behaves a lot like students: it never listens the first time, but the “aha!” moments are just as rewarding.</em>
 
+---
 
 ### Programming Languages
 
